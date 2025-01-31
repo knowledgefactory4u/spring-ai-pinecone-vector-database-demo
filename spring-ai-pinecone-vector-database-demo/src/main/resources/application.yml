@@ -1,0 +1,8 @@
+spring:
+  ai:
+    vectorstore:
+      pinecone:
+        api-key: YOUR_PINECONE_API_KEY
+        environment: us-west4-gcp
+        project: YOUR_PROJECT_NAME
+        index: YOUR_INDEX_NAME
